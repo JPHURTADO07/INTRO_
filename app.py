@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.stitle("Hola! mi nombre es Jp")
+st.title("Hola! mi nombre es Jp")
