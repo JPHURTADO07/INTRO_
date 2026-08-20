@@ -7,3 +7,6 @@ st.header("En este espacio comienzo a desarrollar mis aplicaciones para interfac
 st.write("Facilmente puedo realizar backend y frontend.")
 image = Image.open('be alone.jpg')
 st.image (image, caption='be alone')
+
+texto = st.text_input('Escribe algo', "Este es mi texto')
+st.write('El texto escrito es', texto)
